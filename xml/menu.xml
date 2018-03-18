@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu>
+	<menjar>
+		<nom>Macarrons</nom>
+		<preu>$6</preu>
+		<categoria>Primer Plat</categoria>
+		<descripcio>Plat de macarrons amb formatge ratllat</descripcio>
+		<calories>650</calories>
+	</menjar>
+	<menjar>
+		<nom>Pastís de llimona</nom>
+		<preu>$4</preu>
+		<categoria>Postres</categoria>
+		<descripcio>Tall de pastís amb gust de llimona</descripcio>
+		<calories>900</calories>
+	</menjar>
+	<menjar>
+		<nom>Gelat de Vainilla</nom>
+		<preu>$3</preu>
+		<categoria>Postres</categoria>
+		<descripcio>3 boles de gelat de vainilla</descripcio>
+		<calories>900</calories>
+	</menjar>
+	<menjar>
+		<nom>Pollastre al forn</nom>
+		<preu>$7.50</preu>
+		<categoria>Segon Plat</categoria>
+		<descripcio>Cuixa de pollastre de pagés al forn</descripcio>
+		<calories>600</calories>
+	</menjar>
+	<menjar>
+		<nom>Bacallà</nom>
+		<preu>$6.95</preu>
+		<categoria>Segon Plat</categoria>
+		<descripcio>Plat de bacallà al forn</descripcio>
+		<calories>350</calories>
+	</menjar>
+	<menjar>
+		<nom>Aigua</nom>
+		<preu>$2</preu>
+		<categoria>Beguda</categoria>
+		<descripcio>Ampolla 33cl</descripcio>
+		<calories>350</calories>
+	</menjar>
+	<menjar>
+		<nom>Vi Negre</nom>
+		<preu>$4</preu>
+		<categoria>Beguda</categoria>
+		<descripcio>Copa</descripcio>
+		<calories>200</calories>
+	</menjar>
+	<menjar>
+		<nom>Amanida</nom>
+		<preu>$5</preu>
+		<categoria>Primer Plat</categoria>
+		<descripcio>Amanida verda</descripcio>
+		<calories>150</calories>
+	</menjar>
+</menu>
